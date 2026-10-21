@@ -1,0 +1,14 @@
+fingerprints.TXT
+fingerprints.txt
+leaves.json
+calendar_cache.json
+build/
+dist/
+*.spec
+venv/
+venv/
+env/
+.venv/
+.venv-build/
+__pycache__/
+*.pyc
